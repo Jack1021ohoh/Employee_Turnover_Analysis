@@ -11,8 +11,8 @@ We then built and evaluated multiple machine learning models to determine whethe
 
 - Python 
 - Scikit-learn
-- matplotlib
-- seaborn
+- Matplotlib
+- Seaborn
 - imblearn
 - XGBoost
 - category_encoders
