@@ -2,7 +2,9 @@
 
 ---
 ### Description
-This is the final project for the Business Intelligence course. We used python programming language to analyze and predict whether an employee will leave a job. In the data preprocessing process, We used the Leave-One-Out Target Encoding technique to encode the categorical variables. Next, We built multiple machine learning models to determine whether an employee will leave. Moreover, we utilized Shapley Values to understand the key features that make an employee want to quit.
+This project is the final project for the Business Intelligence course, where we used Python to analyze and predict whether an employee will leave their job. The process began with data preprocessing, where we employed the Leave-One-Out Target Encoding technique to encode categorical variables, allowing for more accurate predictions.
+
+We then built and evaluated multiple machine learning models to determine whether an employee will leave. To gain deeper insights into the factors influencing employee turnover, we utilized Shapley Values, which helped us identify the key features that contribute to an employee's decision to quit.
 
 ---
 ### Built With
@@ -14,6 +16,7 @@ This is the final project for the Business Intelligence course. We used python p
 - imblearn
 - XGBoost
 - category_encoders
+- SHAP
 
 ---
 ### Data Source
